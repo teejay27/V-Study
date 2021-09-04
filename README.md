@@ -15,5 +15,3 @@ Sincere efforts by
 Team Thank u, next
 
 (Tejaswini Gurram, Ishi Thakur, Yashika Goel, Harshita Singh)
-
-V Study-modified
