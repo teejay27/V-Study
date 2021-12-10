@@ -1,4 +1,4 @@
-# V Study: Virtual Study Platform (
+# V Study: Virtual Study Platform 
 Online education in the times of pandemic has left a lot of students alone in their homes, devoiding them of a potential enhancing peer community. People are now more distracted, unfocussed than ever and now have, significantly reduced concentration spans. We have come up with the idea (and prototype) of a Virtual Study Platform that will cater to all major needs of a student, from maintaining and working in a peer community to organising useful resources at one place. The major features of website includes:
 
 1. Subject/Field wise Study Rooms to focus.
