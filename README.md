@@ -12,6 +12,4 @@ Website Link: https://epic-allen-715f0a.netlify.app/
 
 Sincere efforts by
 
-Team Thank u, next
-
-(Tejaswini Gurram, Ishi Thakur, Yashika Goel, Harshita Singh)
+(Tejaswini Gurram, Yashika Goel)
