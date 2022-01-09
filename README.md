@@ -12,4 +12,4 @@ Website Link: https://epic-allen-715f0a.netlify.app/
 
 Sincere efforts by
 
-(Tejaswini Gurram, Yashika Goel)
+(Ishi Thakur, Tejaswini Gurram, Yashika Goel)
