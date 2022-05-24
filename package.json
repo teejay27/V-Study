@@ -1,0 +1,26 @@
+{
+  "name": "v-study",
+  "version": "1.0.0",
+  "description": "Online education in the times of pandemic has left a lot of students alone in their homes, devoiding them of a potential enhancing peer community. People are now more distracted, unfocussed than ever and now have, significantly reduced concentration spans. We have come up with the idea (and prototype) of a Virtual Study Platform that will cater to all major needs of a student, from maintaining and working in a peer community to organising useful resources at one place. The major features of website includes:",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjay27/V-Study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjay27/V-Study/issues"
+  },
+  "homepage": "https://github.com/tjay27/V-Study#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "https": "^1.0.0",
+    "nodemon": "^2.0.16",
+    "path": "^0.12.7"
+  }
+}
