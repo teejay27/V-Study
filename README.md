@@ -9,7 +9,7 @@ Online education in the times of pandemic has left a lot of students alone in th
 In short, V Study will act as a one stop solution for all people looking to improve their productivity levels at work and mostly, learning.
 
 
-Website Link: https://epic-allen-715f0a.netlify.app/
+Website Link: https://vstudy-app.herokuapp.com/
 
 Sincere efforts by
 
