@@ -13,4 +13,4 @@ Website Link: https://vstudy-app.herokuapp.com/
 
 Sincere efforts by
 
-(Ishi Thakur, Tejaswini Gurram, Yashika Goel)
+(Ishi Thakur, Tejaswini Gurram, Yashika Goel, Harshita Gupta)
